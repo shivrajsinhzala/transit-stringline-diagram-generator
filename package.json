@@ -1,0 +1,34 @@
+{
+  "name": "transit-stringline-diagram-generator",
+  "version": "1.0.0",
+  "description": "SVG/Canvas transit stringline dispatch chart renderer (Marey time-distance diagrams) for corridor timetables.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "marey-chart",
+    "stringline-diagram",
+    "transit-dispatch",
+    "time-distance-graph",
+    "gtfs",
+    "svg-visualization",
+    "timetable-planning",
+    "headway",
+    "stopwatch-transit"
+  ],
+  "author": "Shivrajsinh Zala <zalashivraj2642003@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://headway.shivrajsinh.in",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shivrajsinhzala/transit-stringline-diagram-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shivrajsinhzala/transit-stringline-diagram-generator/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
